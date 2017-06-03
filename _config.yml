@@ -2,14 +2,14 @@
 name: 张三的博客
 email: 42310267@qq.com
 author: zhangchengbin
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
+url: https://zhangchengbin.github.io
+resume_site: https://zhangchengbin.github.io
 github: https://github.com/zhangchengbin/
 baseurl: "https://zhangchengbin.github.io"
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+description: 生命不止;折腾不休!
+meta_description: 生命不止;折腾不休!
 motto: We Are Family.
-banner: 学而不思则罔，思而不学则殆。
+banner: 生命不止;折腾不休!
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
