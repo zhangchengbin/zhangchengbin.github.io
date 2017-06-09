@@ -6,10 +6,10 @@ url: https://zhangchengbin.github.io
 resume_site: https://zhangchengbin.github.io
 github: https://github.com/zhangchengbin/
 baseurl: 
-description: 生命不止;折腾不休!
-meta_description: 生命不止;折腾不休!
+description: 生命不止,折腾不休!
+meta_description: 生命不止,折腾不休!
 motto: We Are Family.
-banner: 生命不止;折腾不休!
+banner: 生命不止,折腾不休!
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
